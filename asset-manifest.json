@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.c6d6ebd5.chunk.js",
-    "main.js.map": "/static/js/main.c6d6ebd5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b240f91f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b240f91f.js.map",
-    "static/js/2.ce5d2dbe.chunk.js": "/static/js/2.ce5d2dbe.chunk.js",
-    "static/js/2.ce5d2dbe.chunk.js.map": "/static/js/2.ce5d2dbe.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2bbbc6e3f388e9a9086f9c94e50d0628.js": "/precache-manifest.2bbbc6e3f388e9a9086f9c94e50d0628.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/basic-token-contract-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/basic-token-contract-app/static/js/main.cb67d9ca.chunk.js",
+    "main.js.map": "/basic-token-contract-app/static/js/main.cb67d9ca.chunk.js.map",
+    "runtime-main.js": "/basic-token-contract-app/static/js/runtime-main.da341a29.js",
+    "runtime-main.js.map": "/basic-token-contract-app/static/js/runtime-main.da341a29.js.map",
+    "static/js/2.ce5d2dbe.chunk.js": "/basic-token-contract-app/static/js/2.ce5d2dbe.chunk.js",
+    "static/js/2.ce5d2dbe.chunk.js.map": "/basic-token-contract-app/static/js/2.ce5d2dbe.chunk.js.map",
+    "index.html": "/basic-token-contract-app/index.html",
+    "precache-manifest.a372160342fc9a1ef5fd7339a04d4b7a.js": "/basic-token-contract-app/precache-manifest.a372160342fc9a1ef5fd7339a04d4b7a.js",
+    "service-worker.js": "/basic-token-contract-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/basic-token-contract-app/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b240f91f.js",
+    "static/js/runtime-main.da341a29.js",
     "static/js/2.ce5d2dbe.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.c6d6ebd5.chunk.js"
+    "static/js/main.cb67d9ca.chunk.js"
   ]
 }
